@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0a0a0a"/>
+
+  <!-- Top-left bracket -->
+  <path d="M9 16V9h7" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
+
+  <!-- Bottom-right bracket -->
+  <path d="M23 16v7h-7" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
+
+  <!-- Center square -->
+  <rect x="14.5" y="14.5" width="3" height="3" fill="white" opacity="0.9"/>
+</svg>
