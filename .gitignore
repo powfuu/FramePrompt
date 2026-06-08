@@ -1,3 +1,4 @@
 .grok
 .sdd
 node_modules
+dist
